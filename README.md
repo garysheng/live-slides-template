@@ -16,6 +16,10 @@ A real-time presentation platform built with Next.js, Firebase, and Gemini AI. P
 | `/qa/example` | Audience | Submit and upvote questions, respond to polls |
 | `/follow/example` | Audience | Follow slides in sync or browse freely |
 
+## Integration
+
+Want to set this up as your own presentation platform? Copy the contents of [INTEGRATE.md](./INTEGRATE.md) into your AI coding agent and let it handle the wiring.
+
 ## Quick Start
 
 ### 1. Clone and install
